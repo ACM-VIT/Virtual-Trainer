@@ -1,9 +1,9 @@
 ![ACM-HEADER](https://user-images.githubusercontent.com/14032427/92643737-e6252e00-f2ff-11ea-8a51-1f1b69caba9f.png)
 
-<h1 align="center"> PROJECT TITLE </h1>
+<h1 align="center"> Virtual Trainer </h1>
 
 <p align="center"> 
-Short description about the project.
+Modules that you would need in building your own AI assisted Trainer for your Workouts.
 </p>
 
 <p>
@@ -17,14 +17,7 @@ Short description about the project.
 
 ---
 
-The overview starts here. Random text about the project, motive, how, what, why etc.
-
----
-
-## Screenshots
-
-<!-- Add one screenshot of your project (max height: 1000px, max size: 1mb) 'if applicable' under assets folder in root of your project ![sceenshot](assets/<name of image>) -->
-<!-- if your project has multiple pictures , merge them into one image using a tool similar to figma -->
+A List of Computer Vision Modules you could use to build a WebCam based Trainer of your own. 
 
 ---
 
@@ -39,7 +32,50 @@ git merge
 ```
 
 ---
+## Contribution Guidelines
 
+
+**1.**  Fork [this](https://github.com/ACM-VIT/Virtual-Trainer.git) repository.
+
+**2.**  Clone your forked copy of the project.
+
+```
+git clone https://github.com/<your_user_name>/Virtual-Trainer.git
+```
+
+**3.** Navigate to the project directory .
+
+```
+cd Virtual-Trainer
+```
+
+**4.** Add a reference(remote) to the original repository.
+
+```
+git remote add upstream https://github.com/ACM-VIT/Virtual-Trainer.git 
+```
+
+**5.** Check the remotes for this repository.
+
+```
+git remote -v
+```
+
+**6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
+
+```
+git pull upstream master
+```
+
+**7.** Create a new branch.
+
+```
+git checkout -b <your_branch_name>
+```
+
+**8.** Perform your desired changes to the code base.
+
+---
 ## Authors
 
 **Authors:** <!-- [author1's name](link to their github profile), [author2's name](link to their github profile) .. -->  
