@@ -78,5 +78,5 @@ git checkout -b <your_branch_name>
 ---
 ## Authors
 
-**Authors:** [Aryan(https://github.com/avats101), [Vinamra](https://github.com/vinamrak)
+**Authors:** Aryan(https://github.com/avats101), Vinamra(https://github.com/vinamrak)
  **Contributors:** <!--Generate contributors list using this link - https://contributors-img.web.app/preview -->
